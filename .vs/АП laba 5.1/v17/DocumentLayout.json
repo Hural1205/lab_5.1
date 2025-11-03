@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LeGiOn\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0454\u0445\\\u0410\u041F laba 5.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\LeGiOn\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0454\u0445\\\u0410\u041F laba 5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE240403-7C3C-4FB7-B825-B39B535DEAF8}|\u0410\u041F laba 5.1\\\u0410\u041F laba 5.1.vcxproj|C:\\Users\\LeGiOn\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0454\u0445\\\u0410\u041F laba 5.1\\\u0410\u041F laba 5.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE240403-7C3C-4FB7-B825-B39B535DEAF8}|\u0410\u041F laba 5.1\\\u0410\u041F laba 5.1.vcxproj|solutionrelative:\u0410\u041F laba 5.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 291,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 109,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\LeGiOn\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0454\u0445\\\u0410\u041F laba 5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\LeGiOn\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0454\u0445\\\u0410\u041F laba 5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T16:03:32.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\LeGiOn\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0454\u0445\\\u0410\u041F laba 5.1\\\u0410\u041F laba 5.1\\Source.cpp",
+              "RelativeDocumentMoniker": "\u0410\u041F laba 5.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\LeGiOn\\Desktop\\\u043F\u0430\u043B\u0456\u0442\u0454\u0445\\\u0410\u041F laba 5.1\\\u0410\u041F laba 5.1\\Source.cpp",
+              "RelativeToolTip": "\u0410\u041F laba 5.1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-03T15:48:22.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
